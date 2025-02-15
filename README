@@ -1,0 +1,8 @@
+A Streamlit-based AI assistant that helps analyze and interpret Latin texts from PDFs. It provides summaries, translations, and historical context using OpenAI embeddings and FAISS-based retrieval.
+
+Features
+- Upload PDFs containing Latin texts
+- Extract and process text into searchable chunks
+- Conversational AI with memory and retrieval
+- Summarizes Latin texts in Latin and translates to English
+- Provides Latin proverbs with historical insights
